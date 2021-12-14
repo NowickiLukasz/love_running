@@ -301,5 +301,11 @@ footer{
         text-align: center;
         padding: 0 20px;
     }
+    #times > div{
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
 
 }
